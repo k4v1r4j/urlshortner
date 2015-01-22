@@ -1,0 +1,22 @@
+*.py[co]
+*.pyc
+*.sw[op]
+*.log
+*.pot
+*.py~
+*.html~
+*.pid
+include
+lib
+share
+bin
+.Python
+
+local_settings.py
+*.sublime-*
+
+# Project Specific Ignored Folders
+venv
+archive
+tmp.*
+modules

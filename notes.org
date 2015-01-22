@@ -1,0 +1,11 @@
+# TDD for URL shortner
+
+* Length of the short-url must always be shorter than the original URL
+
+* Given short-url, should be able to recover the original url
+
+* Home contains a form for original url.
+
+* Submitting original URl in form. Short url should be displayed
+
+* Clicking on short url, user should be redirected to Original URL
