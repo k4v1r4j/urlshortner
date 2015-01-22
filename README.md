@@ -12,11 +12,11 @@ A simple urlshortner using Django/Python
   </pre>
 <li>install requirements (install 'pip' if not present)</li>
   <pre>
-  bash-4.2$ pip install -r requirements.txt
+  (venv)bash-4.2$ pip install -r requirements.txt
   </pre>
 <li>Run urlshortner</li>
   <pre>
-  bash-4.2$ ./manage syncdb
-  bash-4.2$ ./manage runserver
+  (venv)bash-4.2$ ./manage syncdb
+  (venv)bash-4.2$ ./manage runserver
   <pre>
 <ol>
